@@ -1,0 +1,65 @@
+.neonText {
+    margin-top: 50px;
+
+    background-color: rgb(52, 253, 0);
+    box-shadow:
+            0 0 7px rgb(44, 211, 0),
+            0 0 10px rgb(44, 211, 0),
+            0 0 21px rgb(44, 211, 0),
+            0 0 42px #68ce36,
+            0 0 82px #68ce36,
+            0 0 92px #68ce36,
+            0 0 102px #68ce36,
+            0 0 151px #68ce36;
+
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+body {
+    margin-top: 50px;
+    font-size: 18px;
+    font-family: "Yellowtail", sans-serif;
+}
+
+h1, h2 {
+    text-align: center;
+    font-weight: 400;
+}
+
+h1 {
+    font-size: 5.2rem;
+    animation: pulsate 0.11s ease-in-out infinite alternate;
+}
+
+h2 {
+    font-size: 1.8rem;
+}
+
+#ledStatus {
+    width: 50px;
+    height: 50px;
+    /* background: red; */
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 50px;
+}
+
+
+
+.circleoff {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(231, 1, 33);
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 50px;
+
+    margin-top: 50px;
+
+
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
