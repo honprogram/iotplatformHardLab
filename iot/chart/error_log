@@ -1,0 +1,44 @@
+[28-Mar-2022 07:06:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/chart/chartdb.php on line 24
+[24-Apr-2022 11:49:55 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/chart/chartdb.php on line 24
+[24-Apr-2022 11:50:15 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/chart/chartdb.php on line 24
+[24-Apr-2022 11:52:18 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/chart/chartdb.php on line 24
+[24-Apr-2022 14:27:50 Asia/Tehran] PHP Deprecated:  join(): Passing glue string after array is deprecated. Swap the parameters in /home/hivaindb/public_html/iot/chart/charts.php on line 245
+[24-Apr-2022 14:29:07 Asia/Tehran] PHP Deprecated:  join(): Passing glue string after array is deprecated. Swap the parameters in /home/hivaindb/public_html/iot/chart/charts.php on line 245
+[24-Apr-2022 14:29:09 Asia/Tehran] PHP Deprecated:  join(): Passing glue string after array is deprecated. Swap the parameters in /home/hivaindb/public_html/iot/chart/charts.php on line 245
+[24-Apr-2022 14:29:12 Asia/Tehran] PHP Deprecated:  join(): Passing glue string after array is deprecated. Swap the parameters in /home/hivaindb/public_html/iot/chart/charts.php on line 245
+[29-Apr-2022 18:48:39 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/chart/chartdb.php on line 24
+[29-Apr-2022 18:48:42 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/chart/chartdb.php on line 24
+[29-Apr-2022 18:48:44 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/chart/chartdb.php on line 24
+[29-Apr-2022 18:49:41 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/chart/chartdb.php on line 24
+[29-Apr-2022 18:49:42 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/chart/chartdb.php on line 24
+[29-Apr-2022 18:51:17 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/chart/chartdb.php on line 24
+[01-May-2022 00:43:52 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/chart/chartdb.php on line 24
+[04-May-2022 23:33:27 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/chart/chartdb.php on line 24
+[04-May-2022 23:33:47 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/chart/chartdb.php on line 24
+[04-May-2022 23:34:21 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/chart/chartdb.php on line 24
+[04-May-2022 23:34:25 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/chart/chartdb.php on line 24
+[05-May-2022 19:44:59 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/chart/chartdb.php on line 24
+[06-May-2022 00:23:59 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/chart/chartdb.php on line 24
+[11-May-2022 13:53:10 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 13:53:10 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/chart/charts.php on line 31
+[11-May-2022 13:53:10 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/chart/charts.php on line 31
+[11-May-2022 14:07:38 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 14:07:38 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/chart/charts.php on line 31
+[11-May-2022 14:07:38 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/chart/charts.php on line 31
+[14-May-2022 23:53:40 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/chart/chartdb.php on line 24
+[02-Jun-2022 12:21:58 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/chart/chartdb.php on line 24
+[24-Jun-2022 18:06:21 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/chart/chartdb.php on line 24
+[24-Jun-2022 18:06:36 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/chart/chartdb.php on line 24
+[24-Jun-2022 18:07:07 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/chart/chartdb.php on line 24
+[24-Jun-2022 18:07:16 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/chart/chartdb.php on line 24
+[14-Jul-2022 07:55:20 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/chart/chartdb.php on line 24
+[14-Jul-2022 11:57:55 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/chart/chartdb.php on line 24
+[14-Jul-2022 11:58:25 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/chart/chartdb.php on line 24
+[14-Jul-2022 11:59:08 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/chart/chartdb.php on line 24
+[14-Jul-2022 12:01:42 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/chart/chartdb.php on line 24
+[14-Jul-2022 12:01:43 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/chart/chartdb.php on line 24
+[14-Jul-2022 12:02:12 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/chart/chartdb.php on line 24
+[14-Jul-2022 12:02:24 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/chart/chartdb.php on line 24
+[14-Jul-2022 12:08:03 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/chart/chartdb.php on line 24
+[14-Jul-2022 12:09:54 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/chart/chartdb.php on line 24
+[14-Jul-2022 14:52:21 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/chart/chartdb.php on line 24

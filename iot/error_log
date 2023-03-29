@@ -1,0 +1,364 @@
+[30-Apr-2022 15:29:43 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[30-Apr-2022 15:35:04 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[30-Apr-2022 16:06:35 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[30-Apr-2022 16:06:35 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/insert.php on line 17
+[01-May-2022 00:11:19 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[01-May-2022 00:11:22 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[01-May-2022 00:11:23 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[01-May-2022 00:57:01 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[01-May-2022 01:02:01 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[01-May-2022 01:02:02 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[01-May-2022 01:04:42 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[01-May-2022 01:04:46 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[01-May-2022 01:10:57 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[01-May-2022 01:10:58 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[01-May-2022 01:22:07 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[01-May-2022 01:24:20 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[02-May-2022 13:59:59 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[02-May-2022 14:00:35 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[02-May-2022 14:00:41 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[02-May-2022 14:00:56 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[02-May-2022 14:29:37 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[02-May-2022 14:30:56 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[02-May-2022 21:47:34 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[02-May-2022 21:49:10 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[04-May-2022 17:56:41 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[04-May-2022 17:57:50 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[05-May-2022 13:33:35 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[05-May-2022 14:57:20 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[08-May-2022 20:57:37 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[09-May-2022 19:54:37 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 13:53:09 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 13:53:09 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/insert.php on line 17
+[11-May-2022 13:53:15 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 13:53:15 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/insert.php on line 17
+[11-May-2022 13:53:20 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 13:53:20 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/insert.php on line 17
+[11-May-2022 14:07:17 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 14:07:17 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/insert.php on line 17
+[11-May-2022 14:07:23 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 14:07:23 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/insert.php on line 17
+[11-May-2022 14:07:28 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 14:07:28 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/logidtable.php on line 14
+[11-May-2022 14:07:28 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/logidtable.php on line 14
+[11-May-2022 14:07:28 Asia/Tehran] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 14:07:28 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/insert.php on line 17
+[11-May-2022 14:07:33 Asia/Tehran] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 14:07:33 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/logidtable.php on line 14
+[11-May-2022 14:07:33 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/logidtable.php on line 14
+[11-May-2022 14:07:34 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 14:07:34 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/insert.php on line 17
+[11-May-2022 14:07:39 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 14:07:39 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/insert.php on line 17
+[11-May-2022 14:07:45 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 14:07:45 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/insert.php on line 17
+[11-May-2022 18:53:18 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 18:53:18 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/insert.php on line 17
+[11-May-2022 18:53:36 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 18:53:36 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/insert.php on line 17
+[11-May-2022 19:01:02 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:01:02 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/insert.php on line 17
+[11-May-2022 19:04:14 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:04:14 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/insert.php on line 17
+[11-May-2022 19:04:35 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:04:35 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/insert.php on line 17
+[11-May-2022 19:04:36 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:04:36 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/insert.php on line 17
+[11-May-2022 19:07:16 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:07:16 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/insert.php on line 17
+[11-May-2022 19:07:17 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:07:17 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/insert.php on line 17
+[11-May-2022 19:07:34 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:07:34 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/insert.php on line 17
+[11-May-2022 19:07:37 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:07:37 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/insert.php on line 17
+[11-May-2022 19:09:39 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:09:39 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/insert.php on line 17
+[11-May-2022 19:09:57 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:09:57 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/insert.php on line 17
+[11-May-2022 19:35:37 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:35:37 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:35:37 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:35:37 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 19:35:43 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:35:43 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:35:43 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:35:43 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 19:35:48 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:35:48 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/insert.php on line 17
+[11-May-2022 19:35:48 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:35:48 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:35:48 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:35:48 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 19:35:53 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:35:53 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:35:53 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:35:53 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 19:35:59 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:35:59 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:35:59 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:35:59 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 19:36:04 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:36:04 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:36:04 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:36:04 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 19:36:06 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:36:06 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/insert.php on line 17
+[11-May-2022 19:39:26 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:39:26 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:39:26 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:39:26 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 19:39:31 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:39:31 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:39:31 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:39:31 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 19:39:36 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:39:36 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:39:36 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:39:36 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 19:39:39 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:39:39 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/insert.php on line 17
+[11-May-2022 19:39:42 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:39:42 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:39:42 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:39:42 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 19:39:47 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:39:47 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:39:47 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:39:47 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 19:39:53 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:39:53 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:39:53 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:39:53 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 19:39:57 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:39:57 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/insert.php on line 17
+[11-May-2022 19:39:58 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:39:58 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:39:58 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:39:58 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 19:41:08 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:41:08 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:41:08 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:41:08 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 19:41:09 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:41:09 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/insert.php on line 17
+[11-May-2022 19:41:14 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:41:14 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:41:14 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:41:14 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 19:41:19 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:41:19 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:41:19 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:41:19 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 19:41:24 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:41:24 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:41:24 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:41:24 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 19:41:26 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:41:26 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/insert.php on line 17
+[11-May-2022 19:41:30 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:41:30 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:41:30 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:41:30 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 19:41:35 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:41:35 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:41:35 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:41:35 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 19:41:57 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:41:57 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:41:57 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:41:57 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 19:42:02 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:42:02 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:42:02 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:42:02 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 19:42:02 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:42:02 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/insert.php on line 17
+[11-May-2022 19:42:07 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:42:07 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:42:07 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:42:07 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 19:42:13 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:42:13 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:42:13 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:42:13 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 19:42:18 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:42:18 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:42:18 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:42:18 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 19:42:20 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:42:20 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/insert.php on line 17
+[11-May-2022 19:42:23 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:42:23 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:42:23 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:42:23 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 19:53:36 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:53:36 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:53:36 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:53:36 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 19:53:38 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:53:38 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/insert.php on line 17
+[11-May-2022 19:53:39 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:53:39 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:53:39 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:53:39 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 19:53:42 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:53:42 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:53:42 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:53:42 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 19:53:47 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:53:47 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:53:47 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:53:47 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 19:53:52 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:53:52 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:53:52 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:53:52 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 19:53:56 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:53:56 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/insert.php on line 17
+[11-May-2022 19:53:58 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:53:58 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:53:58 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:53:58 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 19:54:03 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:54:03 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:54:03 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:54:03 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 19:55:45 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:55:45 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:55:45 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:55:45 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 19:56:01 Asia/Tehran] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:56:01 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:56:01 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:56:01 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 19:56:01 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:56:01 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/insert.php on line 17
+[11-May-2022 19:56:06 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:56:06 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:56:06 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:56:06 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 19:56:11 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:56:11 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:56:11 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:56:11 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 19:56:17 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:56:17 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:56:17 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:56:17 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 19:58:00 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:58:00 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:58:00 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:58:00 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 19:58:05 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:58:05 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:58:05 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:58:05 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 19:58:05 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:58:05 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/insert.php on line 17
+[11-May-2022 19:58:10 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:58:10 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:58:10 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:58:10 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 19:58:16 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:58:16 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:58:16 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:58:16 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 19:58:21 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:58:21 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:58:21 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:58:21 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 19:58:23 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:58:23 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/insert.php on line 17
+[11-May-2022 19:58:27 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 19:58:27 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:58:27 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 19:58:27 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 20:03:44 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 20:03:44 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/insert.php on line 17
+[11-May-2022 20:03:45 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 20:03:45 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 20:03:45 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 20:03:45 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 20:03:51 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 20:03:51 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 20:03:51 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 20:03:51 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 20:03:56 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 20:03:56 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 20:03:56 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 20:03:56 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 20:04:01 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 20:04:01 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 20:04:01 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 20:04:01 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 20:04:02 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 20:04:02 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/insert.php on line 17
+[11-May-2022 20:04:07 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 20:04:07 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 20:04:07 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 20:04:07 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 20:04:12 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 20:04:12 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 20:04:12 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 20:04:12 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 20:26:28 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 20:26:28 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 20:26:28 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 20:26:28 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 20:26:35 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 20:26:35 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 20:26:35 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 20:26:35 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 20:26:38 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 20:26:38 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/insert.php on line 17
+[11-May-2022 20:26:41 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 20:26:41 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 20:26:41 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 20:26:41 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 20:26:46 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 20:26:46 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 20:26:46 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 20:26:46 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 20:26:52 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 20:26:52 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 20:26:52 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 20:26:52 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 20:29:52 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 20:29:52 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 20:29:52 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 20:29:52 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 20:29:54 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 20:29:54 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/insert.php on line 17
+[11-May-2022 20:29:57 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 20:29:57 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 20:29:57 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 20:29:57 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 20:30:03 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 20:30:03 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 20:30:03 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 20:30:03 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 20:30:08 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 20:30:08 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 20:30:08 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 20:30:08 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 20:30:12 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 20:30:12 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/insert.php on line 17
+[11-May-2022 20:30:14 Asia/Tehran] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 20:30:14 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 20:30:14 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 20:30:14 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 20:37:38 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 20:37:38 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/insert.php on line 17
+[11-May-2022 20:37:44 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 20:37:44 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 20:37:44 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[11-May-2022 20:37:44 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[11-May-2022 20:37:56 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[11-May-2022 20:37:56 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/insert.php on line 17
+[13-May-2022 09:08:02 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[02-Jun-2022 16:06:49 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[19-Jun-2022 16:12:31 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/hivaindb/public_html/iot/classes/Database.php on line 10
+[19-Jun-2022 16:12:31 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[19-Jun-2022 16:12:31 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
+[19-Jun-2022 16:12:31 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
