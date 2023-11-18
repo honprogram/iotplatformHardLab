@@ -11,10 +11,25 @@ if (isset($_GET['tkn']) && !empty($_GET['tkn']) &&
     $tableName = "id_" . $clientID;
 
     $query_SearchToken = "SELECT * FROM `user` u WHERE u.`clientID`='$clientID' AND u.`token`='$token'";
+    
     if (mysqli_num_rows($result_SearchToken = $db->conn->query($query_SearchToken))) {
 
-        $query = "SELECT * FROM " . $tableName . " ORDER by `time_date` desc LIMIT " . $rowCount;
+        $page = $_GET['page'] ?? 1;
+        $offset = ($page - 1) * $rowCount;
+
+        $query = "SELECT * FROM $tableName ORDER by `time_date` desc LIMIT $rowCount Offset $offset";
+
         $result = mysqli_query($db->conn, $query);
+
+        $querytotalRows = "SELECT count(*) as totalRows FROM $tableName";
+        $resultTotalRows = mysqli_query($db->conn, $querytotalRows);
+        $resultTotalRows = mysqli_fetch_assoc($resultTotalRows);
+        $totalRows = $resultTotalRows['totalRows'];
+
+        $totalPage = ceil($totalRows / $rowCount);
+        $url = "http" . (($_SERVER['SERVER_PORT'] == 443) ? "s" : "") . "://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
+        $url = (strtok($url, '?')) . "?id=$clientID&tkn=$token&row=$rowCount";
+
         if (mysqli_num_rows($result)) {
             ?>
             <!Doctype HTML>
@@ -98,6 +113,14 @@ if (isset($_GET['tkn']) && !empty($_GET['tkn']) &&
                 $db->conn->close();
                 ?>
             </table>
+
+            
+            <div class="pagination d-flex justify-content-center">
+                <?php  for($i = 1; $i <= $totalPage; $i++) {
+                    echo "<a class='btn bg-purple m-1' href='" . $url . "&page=" . $i ."'>$i</a>";
+                 } ?>
+            </div>
+
             </body>
             </html>
 
