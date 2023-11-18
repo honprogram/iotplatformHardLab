@@ -1720,6 +1720,16 @@ pre code {
   background-color: rgba(0, 0, 0, 0.075);
 }
 
+.bg-purple {
+  background-color: #af5ce6;
+  color: white;
+}
+
+.bg-purple:hover {
+  color: white;
+  background-color: #9046c2;
+}
+
 .table-primary,
 .table-primary > th,
 .table-primary > td {
