@@ -362,3 +362,35 @@
 [19-Jun-2022 16:12:31 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 14
 [19-Jun-2022 16:12:31 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hivaindb/public_html/iot/loglastjson.php on line 14
 [19-Jun-2022 16:12:31 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/hivaindb/public_html/iot/loglastjson.php on line 55
+[18-Dec-2023 11:45:10 Asia/Tehran] PHP Warning:  Undefined variable $row in /home/hivaindb/public_html/iot/insert.php on line 37
+[18-Dec-2023 11:45:10 Asia/Tehran] PHP Warning:  Undefined variable $row in /home/hivaindb/public_html/iot/insert.php on line 45
+[18-Dec-2023 11:45:10 Asia/Tehran] PHP Warning:  Undefined variable $row in /home/hivaindb/public_html/iot/insert.php on line 53
+[18-Dec-2023 11:45:10 Asia/Tehran] PHP Warning:  Undefined variable $row in /home/hivaindb/public_html/iot/insert.php on line 61
+[18-Dec-2023 11:45:10 Asia/Tehran] PHP Warning:  Undefined variable $row in /home/hivaindb/public_html/iot/insert.php on line 69
+[18-Dec-2023 11:45:10 Asia/Tehran] PHP Warning:  Undefined variable $row in /home/hivaindb/public_html/iot/insert.php on line 77
+[18-Dec-2023 11:45:10 Asia/Tehran] PHP Warning:  Undefined variable $row in /home/hivaindb/public_html/iot/insert.php on line 85
+[18-Dec-2023 11:45:10 Asia/Tehran] PHP Warning:  Undefined variable $row in /home/hivaindb/public_html/iot/insert.php on line 93
+[18-Dec-2023 11:45:10 Asia/Tehran] PHP Warning:  Undefined variable $row in /home/hivaindb/public_html/iot/insert.php on line 101
+[18-Dec-2023 11:45:10 Asia/Tehran] PHP Warning:  Undefined variable $row in /home/hivaindb/public_html/iot/insert.php on line 109
+[18-Dec-2023 11:45:10 Asia/Tehran] PHP Warning:  Undefined variable $row in /home/hivaindb/public_html/iot/insert.php on line 117
+[18-Dec-2023 11:45:10 Asia/Tehran] PHP Warning:  Undefined variable $row in /home/hivaindb/public_html/iot/insert.php on line 125
+[18-Dec-2023 11:45:10 Asia/Tehran] PHP Warning:  Undefined variable $row in /home/hivaindb/public_html/iot/insert.php on line 133
+[18-Dec-2023 11:45:10 Asia/Tehran] PHP Warning:  Undefined variable $row in /home/hivaindb/public_html/iot/insert.php on line 141
+[18-Dec-2023 11:45:10 Asia/Tehran] PHP Warning:  Undefined variable $row in /home/hivaindb/public_html/iot/insert.php on line 149
+[18-Dec-2023 11:45:10 Asia/Tehran] PHP Warning:  Undefined variable $row in /home/hivaindb/public_html/iot/insert.php on line 157
+[18-Dec-2023 12:24:31 Asia/Tehran] PHP Warning:  Undefined variable $row in /home/hivaindb/public_html/iot/insert.php on line 37
+[18-Dec-2023 12:24:31 Asia/Tehran] PHP Warning:  Undefined variable $row in /home/hivaindb/public_html/iot/insert.php on line 45
+[18-Dec-2023 12:24:31 Asia/Tehran] PHP Warning:  Undefined variable $row in /home/hivaindb/public_html/iot/insert.php on line 53
+[18-Dec-2023 12:24:31 Asia/Tehran] PHP Warning:  Undefined variable $row in /home/hivaindb/public_html/iot/insert.php on line 61
+[18-Dec-2023 12:24:31 Asia/Tehran] PHP Warning:  Undefined variable $row in /home/hivaindb/public_html/iot/insert.php on line 69
+[18-Dec-2023 12:24:31 Asia/Tehran] PHP Warning:  Undefined variable $row in /home/hivaindb/public_html/iot/insert.php on line 77
+[18-Dec-2023 12:24:31 Asia/Tehran] PHP Warning:  Undefined variable $row in /home/hivaindb/public_html/iot/insert.php on line 85
+[18-Dec-2023 12:24:31 Asia/Tehran] PHP Warning:  Undefined variable $row in /home/hivaindb/public_html/iot/insert.php on line 93
+[18-Dec-2023 12:24:31 Asia/Tehran] PHP Warning:  Undefined variable $row in /home/hivaindb/public_html/iot/insert.php on line 101
+[18-Dec-2023 12:24:31 Asia/Tehran] PHP Warning:  Undefined variable $row in /home/hivaindb/public_html/iot/insert.php on line 109
+[18-Dec-2023 12:24:31 Asia/Tehran] PHP Warning:  Undefined variable $row in /home/hivaindb/public_html/iot/insert.php on line 117
+[18-Dec-2023 12:24:31 Asia/Tehran] PHP Warning:  Undefined variable $row in /home/hivaindb/public_html/iot/insert.php on line 125
+[18-Dec-2023 12:24:31 Asia/Tehran] PHP Warning:  Undefined variable $row in /home/hivaindb/public_html/iot/insert.php on line 133
+[18-Dec-2023 12:24:31 Asia/Tehran] PHP Warning:  Undefined variable $row in /home/hivaindb/public_html/iot/insert.php on line 141
+[18-Dec-2023 12:24:31 Asia/Tehran] PHP Warning:  Undefined variable $row in /home/hivaindb/public_html/iot/insert.php on line 149
+[18-Dec-2023 12:24:31 Asia/Tehran] PHP Warning:  Undefined variable $row in /home/hivaindb/public_html/iot/insert.php on line 157
